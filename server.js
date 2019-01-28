@@ -42,4 +42,4 @@ app.post( '/imageUrl', (req, res) => { imageUrl.apiHandler(req, res,db)});
 
 
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
