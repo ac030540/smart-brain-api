@@ -1,6 +1,6 @@
 # smart-brain-api
 
-It is the backend API for the smart brain project.
+It is backend API for the smart brain project.
 
 The API helps in performing the following actions:    
 1. Login a user
